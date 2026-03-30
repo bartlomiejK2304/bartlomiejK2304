@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <b>Tech Stack:</b> Python, Pandas, SQL, R, C# (.NET basics)
+  <b>Tech Stack:</b> Python, Pandas, SQL, C# (.NET basics)
 </p>
 
 <hr>
