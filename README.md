@@ -40,17 +40,13 @@
 <p>
   🔗 <a href="https://github.com/bartlomiejK2304">My GitHub Repositories</a>
 </p>
-
 <ul>
-  <li>📊 Data analysis projects (Pandas + CSV datasets)</li>
-  <li>📈 Data exploration and basic insights</li>
-  <li>🧮 Programming and small applications</li>
+<li>💻 Simple C# projects (basic applications and programming practice)</li>
+<li>📊 Exploratory Data Analysis (EDA) projects using Pandas </li>
+<li>📈 Working with CSV datasets and building data insights</li>
 </ul>
-
 <hr>
-
 <h2>🛠️ Tech Stack</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,github" />
 </p>
@@ -76,23 +72,6 @@
   <li>🧠 Build strong skills in SQL and data analysis</li>
   <li>🤖 Start learning machine learning in practice</li>
 </ul>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bartlomiejk2304&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartlomiejk2304&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartlomiejk2304&layout=compact&theme=tokyonight" />
-</p>
-
 <hr>
 
 <h2>📫 Contact</h2>
