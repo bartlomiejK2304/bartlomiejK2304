@@ -32,6 +32,7 @@
   <li>🗄️ SQL and working with relational databases</li>
   <li>📚 Fundamentals of data analysis</li>
   <li>⚙️ Programming in <b>Python</b> and <b>C#</b></li>
+  <li>🌐 Frontend fundamentals (HTML, CSS, JavaScript, jQuery)</li>
 </ul>
 
 <hr>
