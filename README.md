@@ -38,9 +38,6 @@
 <hr>
 
 <h2>💼 Projects</h2>
-<p>
-  🔗 <a href="https://github.com/bartlomiejK2304">My GitHub Repositories</a>
-</p>
 <ul>
 <li>💻 Simple C# projects (basic applications and programming practice)</li>
 <li>📊 Exploratory Data Analysis (EDA) projects using Pandas </li>
