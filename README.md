@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bartłomiej</h1>
-<h3 align="center">Aspiring Data Analyst | Python & SQL</h3>
 
-<p align="center">
-  <em>Turning data into insights 📊 | Interested in AI & Machine Learning 🤖</em>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Analyst+in+progress;Python+%7C+SQL;Learning+data+analysis+basics" />
@@ -17,7 +13,6 @@
 
 <h2>🧠 About Me</h2>
 <ul>
-  <li>🎯 Aspiring <b>Data Analyst</b></li>
   <li>🎓 Computer Science & Econometrics student at <b>AGH University of Krakow</b> (2nd year)</li>
   <li>📊 Passionate about working with data and extracting insights</li>
   <li>🤖 Interested in AI and machine learning (currently exploring the basics)</li>
@@ -28,7 +23,6 @@
 
 <h2>🌱 Currently Learning</h2>
 <ul>
-  <li>📊 Data analysis and preprocessing using <b>Pandas</b></li>
   <li>🗄️ SQL and working with relational databases</li>
   <li>📚 Fundamentals of data analysis</li>
   <li>⚙️ Programming in <b>Python</b> and <b>C#</b></li>
