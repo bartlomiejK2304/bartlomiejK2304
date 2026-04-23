@@ -57,8 +57,7 @@
 
 <h2>🧩 Goals for 2026</h2>
 <ul>
-  <li>🚀 Get my first job as a Junior Data Analyst</li>
-  <li>🧠 Build strong skills in SQL and data analysis</li>
+  <li>🚀 Get my first job as a Junior Data Analyst or .NET Developer</li>
   <li>🤖 Start learning machine learning in practice</li>
 </ul>
 <hr>
